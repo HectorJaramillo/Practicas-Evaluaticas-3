@@ -1,0 +1,14 @@
+C:\Users\DELL CORE i5\source\repos\Hanoi\Hanoi\bin\Debug\Hanoi.exe.config
+C:\Users\DELL CORE i5\source\repos\Hanoi\Hanoi\bin\Debug\Hanoi.exe
+C:\Users\DELL CORE i5\source\repos\Hanoi\Hanoi\bin\Debug\Hanoi.pdb
+C:\Users\DELL CORE i5\source\repos\Hanoi\Hanoi\obj\Debug\Hanoi.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\source\repos\Hanoi\Hanoi\obj\Debug\Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\source\repos\Hanoi\Hanoi\obj\Debug\Hanoi.exe
+C:\Users\DELL CORE i5\source\repos\Hanoi\Hanoi\obj\Debug\Hanoi.pdb
+C:\Users\DELL CORE i5\Desktop\Hanoi\Hanoi\bin\Debug\Hanoi.exe.config
+C:\Users\DELL CORE i5\Desktop\Hanoi\Hanoi\bin\Debug\Hanoi.exe
+C:\Users\DELL CORE i5\Desktop\Hanoi\Hanoi\bin\Debug\Hanoi.pdb
+C:\Users\DELL CORE i5\Desktop\Hanoi\Hanoi\obj\Debug\Hanoi.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\Desktop\Hanoi\Hanoi\obj\Debug\Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\Desktop\Hanoi\Hanoi\obj\Debug\Hanoi.exe
+C:\Users\DELL CORE i5\Desktop\Hanoi\Hanoi\obj\Debug\Hanoi.pdb
