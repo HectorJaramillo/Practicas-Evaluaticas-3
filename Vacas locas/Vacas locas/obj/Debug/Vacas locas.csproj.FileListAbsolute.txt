@@ -1,0 +1,14 @@
+C:\Users\DELL CORE i5\source\repos\Vacas locas\Vacas locas\bin\Debug\Vacas locas.exe.config
+C:\Users\DELL CORE i5\source\repos\Vacas locas\Vacas locas\bin\Debug\Vacas locas.exe
+C:\Users\DELL CORE i5\source\repos\Vacas locas\Vacas locas\bin\Debug\Vacas locas.pdb
+C:\Users\DELL CORE i5\source\repos\Vacas locas\Vacas locas\obj\Debug\Vacas locas.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\source\repos\Vacas locas\Vacas locas\obj\Debug\Vacas locas.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\source\repos\Vacas locas\Vacas locas\obj\Debug\Vacas locas.exe
+C:\Users\DELL CORE i5\source\repos\Vacas locas\Vacas locas\obj\Debug\Vacas locas.pdb
+C:\Users\DELL CORE i5\Desktop\Vacas locas\Vacas locas\bin\Debug\Vacas locas.exe.config
+C:\Users\DELL CORE i5\Desktop\Vacas locas\Vacas locas\bin\Debug\Vacas locas.exe
+C:\Users\DELL CORE i5\Desktop\Vacas locas\Vacas locas\bin\Debug\Vacas locas.pdb
+C:\Users\DELL CORE i5\Desktop\Vacas locas\Vacas locas\obj\Debug\Vacas locas.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\Desktop\Vacas locas\Vacas locas\obj\Debug\Vacas locas.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\Desktop\Vacas locas\Vacas locas\obj\Debug\Vacas locas.exe
+C:\Users\DELL CORE i5\Desktop\Vacas locas\Vacas locas\obj\Debug\Vacas locas.pdb
